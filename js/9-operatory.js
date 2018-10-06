@@ -9,3 +9,5 @@ wartosc =(2 + 2 === 4 &&  3 + 1 === 4);
 wartosc = (2 + 2 === 4) ? "Równa się 4" : "Nie równa się 4"; //turner operator - zamiast if ... else ... 
 
 console.log(wartosc);
+
+
