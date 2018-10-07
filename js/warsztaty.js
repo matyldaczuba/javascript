@@ -1,9 +1,10 @@
+
 let a = 2;
 let b = 4;
 let c = 1;
 
-function iloczyn(y,x,z){
-    let wynik = a * b * c;
+function iloczyn(p1,p2,p3){
+    let wynik = p1 * p2 * p3;
     return wynik;
 }
 
